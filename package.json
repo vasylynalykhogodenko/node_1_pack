@@ -6,5 +6,6 @@
     "repository": {
       "type": "git",
       "url": "https://github.com/vasylynalykhogodenko/node_1_pack.git"
-    }
+    },
+    "main": "index.js"
 }
