@@ -1,0 +1,10 @@
+{
+    "name": "reverse-polish-notation-package",
+    "author": "Vasylyna Lykhogodenko",
+    "description": "A brief description of your project",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vasylynalykhogodenko/node_1_pack.git"
+    }
+}
